@@ -3,6 +3,7 @@ const person = {
   lastName: 'Kormos',
   hobby: 'Snowboarding',
 };
+
 console.log(person);
 
 const fullName = person.firstName + ' ' + person.lastName;
